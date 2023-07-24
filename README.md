@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on my [Jidlo je lek]([https://www.youtube.com/c/doctorcode9](https://github.com/Thepilli/jidlo_je_lek)) application
 - 🌱 I’m currently learning everything 😅
 - 💬 Ask me about Flutter, Firebase, python 🐍 or pretty much about anything 
-- :pokeball: Special skills: I can name all the original 150(151) Pokemon by heart!
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg" width="24px">Special skills: I can name all the original 150(151) Pokemon by heart!
+
 
 ## Connect with me
 <a href="jiri-pillar.web.app" target="_blank">
@@ -24,3 +25,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Android Logo" width="42px">
 </p>
+https://upload.wikimedia.org/wikipedia/commons/5/53/Pok%C3%A9_Ball_icon.svg
