@@ -9,10 +9,10 @@
 
 
 ## Connect with me
-<a href="jiri-pillar.web.app" target="_blank">
+<a href="jiri-pillar.web.app" target="www.linkedin.com/in/jiri-pillar-79708b121">
 <img alt="My personal portfolio website" src="https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/Zeyada_White.png?alt=media&token=87417724-f261-4f4b-af3a-277eb69902bd" width="24px">
 </a>
-<a href="www.linkedin.com/in/jiri-pillar-79708b121" target="_blank">
+<a href="www.linkedin.com/in/jiri-pillar-79708b121" target="www.linkedin.com/in/jiri-pillar-79708b121">
 <img alt="Jiri Pillars LinkedIn profile" src="https://firebasestorage.googleapis.com/v0/b/my-api-endpoint.appspot.com/o/linkedin.png?alt=media&token=8bb47b0c-dfce-4ab3-8308-347fdad512d1" width="24px">
 </a>
 
